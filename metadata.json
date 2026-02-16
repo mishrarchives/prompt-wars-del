@@ -1,0 +1,7 @@
+{
+  "name": "Next-Gen Bricks: Gemini Edition",
+  "description": "An evolved block-stacking game featuring a dynamic AI narrator, evolutionary difficulty mutations, and image-to-level generation powered by Gemini 3 Flash.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
